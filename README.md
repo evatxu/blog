@@ -5,4 +5,4 @@
 
 ### 目录
 ---
--[揭开this的神秘面纱](https://github.com/evatxu/blog/issues/2)
+- [揭开this的神秘面纱](https://github.com/evatxu/blog/issues/2)
